@@ -1,0 +1,8 @@
+.google_button{
+    margin-right: 2.5em; 
+    width: 1em; 
+    display: block; 
+    position: absolute; 
+    background-size: 24px; 
+    border-radius: 4px;
+}
